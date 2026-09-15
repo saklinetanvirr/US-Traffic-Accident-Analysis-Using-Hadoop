@@ -1,0 +1,10 @@
+Miami,186917
+Houston,169609
+Los Angeles,156491
+Charlotte,138652
+Dallas,130939
+Orlando,109733
+Austin,97359
+Raleigh,86079
+Nashville,72930
+Baton Rouge,71588

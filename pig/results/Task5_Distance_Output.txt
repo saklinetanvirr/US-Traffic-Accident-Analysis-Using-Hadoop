@@ -1,0 +1,3 @@
+Short Distance,6618001
+Medium Distance,964929
+Long Distance,145211

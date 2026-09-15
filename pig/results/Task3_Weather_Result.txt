@@ -1,0 +1,36 @@
+Fair,2560703
+Mostly Cloudy,1016175
+Cloudy,817059
+Clear,808715
+Partly Cloudy,698944
+Overcast,382861
+Light Rain,352942
+Scattered Clouds,204823
+Unknown,173448
+Light Snow,128677
+Fog,99235
+Rain,84331
+Haze,76222
+Fair / Windy,35671
+Heavy Rain,32308
+Light Drizzle,22680
+Thunder in the Vicinity,17609
+Cloudy / Windy,17035
+T-Storm,16810
+Mostly Cloudy / Windy,16507
+Snow,15537
+Thunder,14202
+Light Rain with Thunder,13597
+Smoke,12668
+Wintry Mix,11703
+Partly Cloudy / Windy,10240
+Heavy T-Storm,9671
+Light Rain / Windy,7945
+Light Snow / Windy,6826
+Heavy Snow,5003
+Light Thunderstorms and Rain,4931
+Drizzle,4726
+Thunderstorm,4438
+Patches of Fog,4144
+Mist,3539
+Light Freezing Rain,3465
